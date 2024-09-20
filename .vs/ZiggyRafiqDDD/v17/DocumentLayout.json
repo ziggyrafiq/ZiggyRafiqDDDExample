@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\ZiggyRafiqDDDExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24E96B-B2AF-4691-9A2B-631AE75E91E7}|ZiggyRafiq.Tests\\ZiggyRafiq.Tests.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24E96B-B2AF-4691-9A2B-631AE75E91E7}|ZiggyRafiq.Tests\\ZiggyRafiq.Tests.csproj|solutionrelative:ziggyrafiq.tests\\orderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\events\\handlers\\orderplacedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\events\\handlers\\orderplacedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\events\\orderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq infrastructure\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|solutionrelative:ziggyrafiq infrastructure\\dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|solutionrelative:ziggyrafiq infrastructure\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78D29F-FB98-4440-8966-0EBA3FBD2FFF}|ZiggyRafiq.API\\ZiggyRafiq.API.csproj|solutionrelative:ziggyrafiq.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA24E96B-B2AF-4691-9A2B-631AE75E91E7}|ZiggyRafiq.Tests\\ZiggyRafiq.Tests.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.tests\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA24E96B-B2AF-4691-9A2B-631AE75E91E7}|ZiggyRafiq.Tests\\ZiggyRafiq.Tests.csproj|solutionrelative:ziggyrafiq.tests\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq infrastructure\\ziggyrafiq.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B2E92B4-179D-4386-87CA-3A3C43A8F66D}|ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj|solutionrelative:ziggyrafiq infrastructure\\ziggyrafiq.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|i:\\github\\ziggyrafiqdddexample\\ziggyrafiq.domain\\ziggyrafiq.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDEBCF45-9EBF-433F-846C-52CB80DA8394}|ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj|solutionrelative:ziggyrafiq.domain\\ziggyrafiq.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\appsettings.json",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\appsettings.json",
+              "RelativeToolTip": "ZiggyRafiq.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T10:13:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServiceTests.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Tests\\OrderServiceTests.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Tests\\OrderServiceTests.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Tests\\OrderServiceTests.cs",
+              "RelativeToolTip": "ZiggyRafiq.Tests\\OrderServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:53:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "ZiggyRafiq.API\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:29:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\Dtos\\OrderDto.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "ZiggyRafiq.API\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:28:47.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\Controllers\\OrderController.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ZiggyRafiq.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:27:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbEntities.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\DbEntities.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq Infrastructure\\DbEntities.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\DbEntities.cs",
+              "RelativeToolTip": "ZiggyRafiq Infrastructure\\DbEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:21:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq Infrastructure\\OrderRepository.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\OrderRepository.cs",
+              "RelativeToolTip": "ZiggyRafiq Infrastructure\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:16:29.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Services\\OrderService.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Services\\OrderService.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:18:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Models\\Order.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:08:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:11:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Models\\Customer.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:12:18.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Address.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\ValueObjects\\Address.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:14:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Repository\\IOrderRepository.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:15:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Program.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\Program.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\Program.cs",
+              "RelativeToolTip": "ZiggyRafiq.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:43:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderPlacedEventHandler.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Events\\Handlers\\OrderPlacedEventHandler.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Events\\Handlers\\OrderPlacedEventHandler.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Events\\Handlers\\OrderPlacedEventHandler.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Events\\Handlers\\OrderPlacedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:50:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPlacedEvent.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Events\\OrderPlacedEvent.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\Events\\OrderPlacedEvent.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\Events\\OrderPlacedEvent.cs",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\Events\\OrderPlacedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:46:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZiggyRafiq.Infrastructure.csproj",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj",
+              "RelativeToolTip": "ZiggyRafiq Infrastructure\\ZiggyRafiq.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T15:16:23.932Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.API\\GlobalUsing.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.API\\GlobalUsing.cs",
+              "RelativeToolTip": "ZiggyRafiq.API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:56:33.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Tests\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Tests\\GlobalUsing.cs",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Tests\\GlobalUsing.cs",
+              "RelativeToolTip": "ZiggyRafiq.Tests\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:55:40.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ZiggyRafiq.Domain.csproj",
+              "DocumentMoniker": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj",
+              "RelativeDocumentMoniker": "ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj",
+              "ToolTip": "I:\\GitHub\\ZiggyRafiqDDDExample\\ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj",
+              "RelativeToolTip": "ZiggyRafiq.Domain\\ZiggyRafiq.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T15:08:32.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

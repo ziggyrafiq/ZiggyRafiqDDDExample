@@ -1,0 +1,11 @@
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\bin\Debug\net8.0\ZiggyRafiq Infrastructure.deps.json
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\bin\Debug\net8.0\ZiggyRafiq Infrastructure.dll
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\bin\Debug\net8.0\ZiggyRafiq Infrastructure.pdb
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.AssemblyInfoInputs.cache
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.AssemblyInfo.cs
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.csproj.CoreCompileInputs.cache
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.dll
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\refint\ZiggyRafiq Infrastructure.dll
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ZiggyRafiq Infrastructure.pdb
+I:\GitHub\ZiggyRafiqDDDExample\ZiggyRafiqDDD\ZiggyRafiq Infrastructure\obj\Debug\net8.0\ref\ZiggyRafiq Infrastructure.dll
